@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="google-style-checker_deploy">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/build/gcheckstyle/google-style-checker_deploy.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
