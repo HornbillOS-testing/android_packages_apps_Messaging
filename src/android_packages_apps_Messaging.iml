@@ -7,9 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="tests" />
-    <orderEntry type="module" module-name="android_packages_apps_Messaging1" />
     <orderEntry type="module" module-name="android_packages_apps_Messaging1" />
     <orderEntry type="module" module-name="tests" />
+    <orderEntry type="module" module-name="tests" />
+    <orderEntry type="module" module-name="android_packages_apps_Messaging1" />
   </component>
 </module>
